@@ -2,3 +2,5 @@ The Rectorats;8;720.0;Ola Olsen
 Gloshaugkameratene;4;540;Per Person
 The Rectorats;2;200;Nina Karlsson
 The aller beste;4;900;Even Evenrud
+The Rectorats;8;720.0;Ole-Magnus
+The Rectorats;8;720.0;Ole-Magnus
