@@ -1,0 +1,4 @@
+12345 Kari Nordmann 27 kari@norge.no 450000.0
+98765 Peter Svenske 42 peter@sverige.se 420000.75
+55555 Guri Gulliksen 32 guri@ansatt.her 230000.0
+22222 Karl Karlsen 56 karl@karl.karl 310000.50
