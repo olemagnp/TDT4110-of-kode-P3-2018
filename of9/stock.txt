@@ -1,0 +1,4 @@
+Asus;GTX 1080 ti;11300.0;5
+Moccamaster;KB-741-A0;1490.0;10
+Asus;GTX 1070;4599.5;7
+Samsung;S8;7899.5;15
